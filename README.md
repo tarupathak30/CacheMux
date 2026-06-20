@@ -65,7 +65,7 @@ Because the fallback to Gemini uses the official `google-genai` SDK, the request
 The proxy is configured to use the following environment variables:
 * `GROQ_API_KEY`: API Key for Groq Cloud.
 * `GEMINI_API_KEY`: API Key for Google AI Studio.
-* `UPSTASH_REDIS_REST_URL`: Upstash Redis HTTP url (e.g. `https://xxx.upstash.io`).
+* `UPSTASH_REDIS_REST_URL`: Upstash Redis HTTP url (e.g. `https://upstash.com/`).
 * `UPSTASH_REDIS_REST_TOKEN`: Upstash Redis token.
 * `DEFAULT_GROQ_MODEL`: Defaults to `llama-3.3-70b-versatile` (configurable).
 * `FALLBACK_GEMINI_MODEL`: Defaults to `gemini-2.5-flash` (configurable).
