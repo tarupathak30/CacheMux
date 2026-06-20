@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+groq
+google-genai
+upstash-redis
+pydantic
+httpx

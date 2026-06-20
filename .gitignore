@@ -1,0 +1,10 @@
+# Ignore the entire virtual environment folder
+venv/
+.venv/
+
+# Ignore your private API credentials file
+.env
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
